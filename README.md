@@ -1,2 +1,3 @@
 # Repo1 - Git öğreniyorum
-bugün add, commit ve push ogrendim.
+bugun add, commit ve push ogrendim.
+Bu satiri github uzerinden ekledim.
