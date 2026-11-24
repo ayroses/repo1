@@ -1,0 +1,8 @@
+Ogrendigim komutlar:
+git init - yeni repo baslatır
+git status - durumu gosterir
+git add - dosyayı commit'e hazırlar
+git commit -m - degisiklikleri kaydeder
+git push - GitHub'a gonderir
+git branch - branch'leri listeler / yeni branch acar
+git switch - branch degistirir
