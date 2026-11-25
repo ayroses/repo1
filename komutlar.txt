@@ -6,3 +6,11 @@ git commit -m - degisiklikleri kaydeder
 git push - GitHub'a gonderir
 git branch - branch'leri listeler / yeni branch acar
 git switch - branch degistirir
+git switch -c - yeni branch açar ve ona geçer
+git push -u origin <branch> - branch'i ilk kez GitHub'a gonderir
+git pull - GitHub'daki yenilikleri bilgisayara ceker
+git merge - Baska bir branch'i bulundugun branch'e birlestirir
+git log --oneline --graph - commit gecmisini cizim olarak gosterir
+git branch -d - branch siler
+git push origin --delete <branch> - GitHub' daki branch'i siler
+git branch -a - tum branch'leri listeler
